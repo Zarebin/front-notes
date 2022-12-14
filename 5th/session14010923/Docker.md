@@ -1,7 +1,7 @@
 
 -----------------------------
 
-#step1
+step1
 
 ## Top Question :
 
@@ -21,7 +21,7 @@
 
 --------------------------------
 
-#step2
+step2
 
 ### after install docker 
 
@@ -58,7 +58,7 @@ docker stop idprogram
 ,........
 ----------------------------------------
 
- #step3 
+step3
 
 ## install redis
 
@@ -140,7 +140,7 @@ docker exec -it idcontainer  redis-cli
 ## Elastic search
 
 
-#step4 
+step4
 
 See the link below
 
@@ -197,7 +197,7 @@ sudo sysctl -w vm.max_map_count=262144
 
 *****************************************************
 
-#step5 
+step5
 
 open a browser and navigate to [http://localhost:5601](http://localhost:5601/) to access Kibana
 open a browser and navigate to [http://localhost:9200](http://localhost:9200/)to access elastic
