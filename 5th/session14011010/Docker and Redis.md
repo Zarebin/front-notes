@@ -1,7 +1,7 @@
-#Docker and Redis
+Docker and Redis
 -----------------------------
 
-#step1
+step1
 
 
 ### - Explanation about stack overflow
@@ -17,7 +17,7 @@
 
 --------------------------------
 
-#step2
+step2
 
 ### How to bring up an express, redis and read a number from redis and add it every time the page is refreshed
 
@@ -169,7 +169,7 @@ ports:
 
 *****************************************************
 ----------------
-#step3
+step3
 
 ### Pairmatching Project 
 
